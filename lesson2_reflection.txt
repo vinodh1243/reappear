@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It basically collects all the information snap of the files in the directory and it does a branch master for tracking the stuff.
